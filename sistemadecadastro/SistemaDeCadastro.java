@@ -3,7 +3,6 @@ package sistemadecadastro;
 
 import Visao.Lelapin;
 
-//provavel trabalho de POO
 //Desenvolvedor : Felipe Ribeiro Rosa Alves
 public class SistemaDeCadastro {
 
